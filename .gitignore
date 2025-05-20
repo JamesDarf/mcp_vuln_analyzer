@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+*.egg
+*.egg-info/
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# VSCode settings
+.vscode/
+
+# Mac OS
+.DS_Store
+
+# Zip or build artifacts
+*.zip
+*.tar.gz
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Test output
+coverage.xml
+htmlcov/
+.cache/
+.tox/
+.nox/
+.pytest_cache/
+
+# Reports
+*.html
+*.md.bak
